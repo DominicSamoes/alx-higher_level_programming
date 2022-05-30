@@ -74,9 +74,9 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### [9. Easter Egg](./9-easter_egg.py)
 * Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
- 	- Script should be maximum 98 characters long (please check with wc -m 9-easter_egg.py)
+ 	- Script should be maximum 98 characters long
 
-### [10. Linked list cycle](./ 10-check_cycle.c) and (./lists.h) 
+### [10. Linked list cycle](./ 10-check_cycle.c) 
 * C function that checks if a singly linked list has a cycle in it.
 	- Prototype: int check_cycle(listint_t *list);
 	- Return: 0 if there is no cycle, 1 if there is a cycle
