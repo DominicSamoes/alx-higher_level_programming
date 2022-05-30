@@ -71,7 +71,9 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Program exactly 5 lines long
 	- No new variabls allowed
 	- No string literals allowed
-	
+### [9. Easter Egg](./9-easter_egg.py)
+* Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+ 	- Script should be maximum 98 characters long (please check with wc -m 9-easter_egg.py)	
 
 
 ---
