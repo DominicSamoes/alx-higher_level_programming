@@ -33,6 +33,9 @@ These are all the tasks of this project, the ones that are completed link to the
 * Python file name saved in the environment variable $PYFILE
 
 
+### [1. Run inline](./1-run_inline)
+* Shell script that runs Python code.
+* Python code saved in the environment variable $PYCODE
 ---
 
 ### Author
