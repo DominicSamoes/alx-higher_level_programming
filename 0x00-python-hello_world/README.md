@@ -83,6 +83,12 @@ These are all the tasks of this project, the ones that are completed link to the
 * Requirements:
 	- Only these functions are allowed: write, printf, putchar, puts, malloc, free	
 
+### [11. Hello, write](./100-write.py)
+* Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line.
+	- Using the function write from the sys module
+	- Print not allowed to be used
+	- Script prints to the stderr
+	- Script exits with the status code 1
 
 ---
 
