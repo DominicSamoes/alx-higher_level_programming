@@ -90,6 +90,10 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Script prints to the stderr
 	- Script exits with the status code 1
 
+### [12. Compile](./101-compile)
+* Script that compiles a Python script file.
+* Python file name stored in the environment variable $PYFILE
+
 ---
 
 ### Author
