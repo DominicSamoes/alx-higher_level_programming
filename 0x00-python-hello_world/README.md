@@ -40,6 +40,11 @@ These are all the tasks of this project, the ones that are completed link to the
 ### [2. Hello, print](./2-print.py)
 * Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
 	- Using the function the print
+
+### [3. Print integer](./3-print_number.py)
+* Print the integer stored in the variable number, followed by Battery street, followed by a new line.
+
+
 ---
 
 ### Author
