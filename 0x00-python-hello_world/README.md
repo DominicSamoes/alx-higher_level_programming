@@ -50,7 +50,12 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Float:, followed by the float with only 2 digits
 	- Followed by a new line
 	- No casting of variable number allowed
-	- Have to use f-strings 
+	- Have to use f-strings
+
+### [5. Print string](./5-print_string.py) 
+* Print 3 times a string stored in the variable str, followed by its first 9 characters.
+	- Loops or conditional statement not allowed
+	- Maximum of 5 lines long of code
 
 ---
 
