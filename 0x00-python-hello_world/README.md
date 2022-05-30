@@ -65,6 +65,14 @@ These are all the tasks of this project, the ones that are completed link to the
 * Loops or conditional statements not allowed
 * Program exactly 8 lines long
 
+### [8. Create a new sentence](./8-concat_edges.py)
+* Print object-oriented programming with Python, followed by a new line.
+	- Loops or conditional statements not allowed
+	- Program exactly 5 lines long
+	- No new variabls allowed
+	- No string literals allowed
+	
+
 
 ---
 
