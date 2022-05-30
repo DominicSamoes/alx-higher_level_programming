@@ -71,11 +71,12 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Program exactly 5 lines long
 	- No new variabls allowed
 	- No string literals allowed
+
 ### [9. Easter Egg](./9-easter_egg.py)
 * Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
- 	- Script should be maximum 98 characters long (please check with wc -m 9-easter_egg.py
+ 	- Script should be maximum 98 characters long (please check with wc -m 9-easter_egg.py)
 
-### [10. Linked list cycle](./ 10-check_cycle.c)
+### [10. Linked list cycle](./ 10-check_cycle.c) and (./lists.h) 
 * C function that checks if a singly linked list has a cycle in it.
 	- Prototype: int check_cycle(listint_t *list);
 	- Return: 0 if there is no cycle, 1 if there is a cycle
