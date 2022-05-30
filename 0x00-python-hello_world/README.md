@@ -61,6 +61,10 @@ These are all the tasks of this project, the ones that are completed link to the
 * Print Welcome to Holberton School!
 * Loops or conditional statements not allowed
 
+### [7. Copy - Cut - Paste](./7-edges.py)
+* Loops or conditional statements not allowed
+* Program exactly 8 lines long
+
 
 ---
 
