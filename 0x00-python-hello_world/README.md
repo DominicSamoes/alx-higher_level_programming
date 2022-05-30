@@ -94,6 +94,9 @@ These are all the tasks of this project, the ones that are completed link to the
 * Script that compiles a Python script file.
 * Python file name stored in the environment variable $PYFILE
 
+### [13. ByteCode -> Python #1](./102-magic_calculation.py)
+* Python function def magic_calculation(a, b) that prints the Python bytecode
+
 ---
 
 ### Author
