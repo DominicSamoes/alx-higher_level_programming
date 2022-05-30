@@ -36,6 +36,10 @@ These are all the tasks of this project, the ones that are completed link to the
 ### [1. Run inline](./1-run_inline)
 * Shell script that runs Python code.
 * Python code saved in the environment variable $PYCODE
+
+### [2. Hello, print](./2-print.py)
+* Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+	- Using the function the print
 ---
 
 ### Author
