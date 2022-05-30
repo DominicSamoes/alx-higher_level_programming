@@ -57,6 +57,11 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Loops or conditional statement not allowed
 	- Maximum of 5 lines long of code
 
+### [6. Play with strings](./6-concat.py)
+* Print Welcome to Holberton School!
+* Loops or conditional statements not allowed
+
+
 ---
 
 ### Author
