@@ -44,6 +44,13 @@ These are all the tasks of this project, the ones that are completed link to the
 ### [3. Print integer](./3-print_number.py)
 * Print the integer stored in the variable number, followed by Battery street, followed by a new line.
 
+### [4. Print float](./4-print_float.py)
+* Print the float stored in the variable number with a precision of 2 digits.
+* Output:
+	- Float:, followed by the float with only 2 digits
+	- Followed by a new line
+	- No casting of variable number allowed
+	- Have to use f-strings 
 
 ---
 
