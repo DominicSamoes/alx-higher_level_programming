@@ -76,6 +76,48 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Only one loop can be used in code
 	- Numbers cannot be stored in a variable
 	- No importation of any module allowed
+
+### [5. ]00...99(./5-print_comb2.py)
+* Program that prints numbers from 0 to 99
+	- Numbers  separated by ,, followed by a space
+	- Numbers printed in ascending order, with two digits
+	- Last number  followed by a new line
+	- Maximum of two print functions
+	- Only one loop can be used in code
+	- Numbers or strings cannot be stored in a variable
+	- No importation of any module allowed
+
+
+### [](./)
+
+
+
+### [](./)
+
+
+
+### [](./)
+
+
+
+### [](./)
+
+
+
+### [](./)
+
+
+
+### [](./)
+
+
+
+### [](./)
+
+
+
+### [](./)
+
 	
 ---
 
