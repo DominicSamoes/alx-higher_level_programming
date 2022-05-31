@@ -88,7 +88,18 @@ These are all the tasks of this project, the ones that are completed link to the
 	- No importation of any module allowed
 
 
-### [](./)
+### [6. Inventing is a combination of brains and materials. The more brains you use, the less material you need](./6-print_comb3.py)
+* Program that prints all possible different comninations of two digits.
+	- Numbers separated by ',', followed by a space 
+	- The two digits must be different
+	- 01 and 10 are considered the same combination of the two digits 0 and 1
+	- Smallest combination of two digits is printed
+	- Numbers printed in ascending order, with two digits
+	- Last number followed by a new line
+	- Maximum of three print functions
+	- No more than two loops
+	- Numbers or strings cannot be stored in a variable
+	- No importation of any module allowed
 
 
 
