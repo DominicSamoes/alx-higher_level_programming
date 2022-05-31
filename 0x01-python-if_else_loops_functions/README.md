@@ -128,6 +128,37 @@ These are all the tasks of this project, the ones that are completed link to the
 	- No importation of any module allowed
 
 
+### [10. a + b](./10-add.py)
+* Function that adds two integers and returns the result.
+	- Prototype: def add(a, b):
+	- Returns the value of a + b
+	- No importation of any module allowed
+
+
+
+### [11. a ^ b](./11-pow.py)
+* Function that computes a to the power of b and return the value
+	- Prototype: def pow(a, b):
+	- Returns the value of a ^ b
+	- No importation of any module allowed 
+
+
+
+### [12. Fizz Buzz](./12-fizzbuzz.py)
+* Function that prints the numbers from 1 to 100 separated by a space
+	- For multiples of three print Fizz instead of the number and for multiples of five print Buzz
+	- For numbers which are multiples of both three and five print FizzBuzz
+	- Prototype: def fizzbuzz()
+	- Each element should be followed by a space
+	- No importation of any module allowed 
+
+
+### [13. Insert in sorted linked list](./13-insert_number.c)
+* C function that  inserts a number into a sorted singly linked list
+	- Prototype: listint_t *insert_node(listint_t **head, int number);
+	- Return: the address of the new node, or NULL if it failed
+
+
 ### [](./)
 
 
@@ -138,9 +169,6 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### [](./)
 
-
-
-### [](./)
 
 	
 ---
