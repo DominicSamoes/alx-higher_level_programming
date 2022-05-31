@@ -103,7 +103,13 @@ These are all the tasks of this project, the ones that are completed link to the
 
 
 
-### [](./)
+### [7. islower](./7-islower.py)
+* Function  that checks for lowercase character
+	- Prototype: def islower(c):
+	- Returns True if c is lowercase
+	- Returns False otherwise
+	- No importation of any module allowed
+	- Not allowed to use str.upper() and str.isupper()
 
 
 
