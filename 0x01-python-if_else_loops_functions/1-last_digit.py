@@ -12,4 +12,4 @@ elif (lstdgt < 6 and number > 0):
 else:
     lstdgt = -lstdgt
     state = "and is less than 6 and not 0"
-print("Last digit of", number, "is", lstdgt, state)
+print("Last digit of {} is {} {}".format(number, lstdgt, state))
