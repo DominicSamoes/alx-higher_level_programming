@@ -62,6 +62,13 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Characters cannot be stored in a variable
 	- No importation of any module allowed
 
+### [3. When I was having that alphabet soup, I never thought that it would pay off](./3-print_alphabt.py)
+* Prints the ASCII alphabet, in lowercase, not followed by a new line
+	- Print all the letters except q and e
+	- Print can only be used with string format
+	- Only one loop can be used in code
+	- Characters cannot be stored in a variable
+	- No importation of any module allowed
 	
 ---
 
