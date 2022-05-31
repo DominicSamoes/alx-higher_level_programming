@@ -77,7 +77,7 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Numbers cannot be stored in a variable
 	- No importation of any module allowed
 
-### [5. ]00...99(./5-print_comb2.py)
+### [5. 00...99](./5-print_comb2.py)
 * Program that prints numbers from 0 to 99
 	- Numbers  separated by ,, followed by a space
 	- Numbers printed in ascending order, with two digits
@@ -159,16 +159,22 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Return: the address of the new node, or NULL if it failed
 
 
-### [](./)
+### [14. Smile in the mirror](./100-print_tebahpla.py)
+* Program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by a new line.
+	- You can only use one print function with string format
+	- You can only use one loop in your code
+	- You are not allowed to store characters in a variable
+	- You are not allowed to import any module
 
 
+### [15. Remove at position](./101-remove_char_at.py)
+* Function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”)
+	- Prototype: def remove_char_at(str, n):
+	- No importation of any module allowed
 
-### [](./)
 
-
-
-### [](./)
-
+### [16. ByteCode -> Python #2](./102-magic_calculation.py)
+* Python function def magic_calculation(a, b, c)
 
 	
 ---
