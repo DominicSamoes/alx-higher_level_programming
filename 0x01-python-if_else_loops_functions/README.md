@@ -55,6 +55,12 @@ These are all the tasks of this project, the ones that are completed link to the
 		+ if the last digit is less than 6 and not 0: the string and is less than 6 and not 0
 * Followed by a new line 
 
+### [2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game](./2-print_alphabet.py)
+* Program that prints the ASCII alphabet, in lowercase, not followed by a new line
+	- Print can only be used with string format
+	- Only one loop can be used in code
+	- Characters cannot be stored in a variable
+	- No importation of any module allowed
 
 	
 ---
