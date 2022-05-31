@@ -121,8 +121,11 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Not allowed to use str.upper() and str.isupper()
 
 
-### [](./)
-
+### [9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important](./9-print_last_digit.py)
+* Function that prints the last digit of a number
+	- Prototype: def print_last_digit(number):
+	- Returns the value of the last digit
+	- No importation of any module allowed
 
 
 ### [](./)
