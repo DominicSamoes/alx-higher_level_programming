@@ -69,6 +69,13 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Only one loop can be used in code
 	- Characters cannot be stored in a variable
 	- No importation of any module allowed
+
+### [4. Hexadecimal printing](./4-print_hexa.py)
+* Program that prints all numbers from 0 to 98 in decimal and in hexadecimal
+	- Print can only be used with string format
+	- Only one loop can be used in code
+	- Numbers cannot be stored in a variable
+	- No importation of any module allowed
 	
 ---
 
