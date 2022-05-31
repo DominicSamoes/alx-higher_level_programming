@@ -102,7 +102,6 @@ These are all the tasks of this project, the ones that are completed link to the
 	- No importation of any module allowed
 
 
-
 ### [7. islower](./7-islower.py)
 * Function  that checks for lowercase character
 	- Prototype: def islower(c):
@@ -113,8 +112,13 @@ These are all the tasks of this project, the ones that are completed link to the
 
 
 
-### [](./)
-
+### [8. To uppercase](./8-uppercase.py)
+* Function that prints a string in uppercase followed by a new line
+	- Prototype: def uppercase(str):
+	- Maximum of two print functions
+	- One loop allowed 
+	- No importation of any module allowed
+	- Not allowed to use str.upper() and str.isupper()
 
 
 ### [](./)
