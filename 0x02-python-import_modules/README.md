@@ -55,7 +55,16 @@ These are all the tasks of this project, the ones that are completed link to the
 	- You are not allowed to use * for importing or __import__
 	- Your code should not be executed when imported
 
-
+### [2. How to make a script dynamic!](./2-args.py)
+* Write a program that prints the number of and the list of its arguments
+	- The output should be:
+		+ Number of argument(s) followed by argument (if number is one) or arguments (otherwise), followed by
+		+ : (or . if no arguments were passed) followed by
+		+ a new line, followed by (if at least one argument),
+		+ one line per argument:
+			= the position of the argument (starting at 1) followed by :, followed by the argument value and a new line
+	- Your code should not be executed when imported
+	- The number of elements of argv can be retrieved by using: len(argv)
 
 ---
 
