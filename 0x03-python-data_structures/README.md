@@ -46,10 +46,20 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### [1. Secure access to an element in a list](./1-element_at.py)
 * Write a function that retrieves an element from a list like in C.
-	* Prototype: def element_at(my_list, idx):
-	* If idx is negative, the function should return None
-	* If idx is out of range (> of number of element in my_list), the function should return None
-	* You are not allowed to use try/except
+	- Prototype: def element_at(my_list, idx):
+	- If idx is negative, the function should return None
+	- If idx is out of range (> of number of element in my_list), the function should return None
+	- You are not allowed to use try/except
+
+### [2. Replace element](./2-replace_in_list.py)
+* Write a function that replaces an element of a list at a specific position (like in C).
+	- Prototype: def replace_in_list(my_list, idx, element):
+	- If idx is negative, the function should not modify anything, and returns the original list
+	- If idx is out of range (> of number of element in my_list), the function should not modify anything, and returns the original list
+	- You are not allowed to import any module
+	- You are not allowed to use try/except
+
+ 
 ---
 
 ### Author
