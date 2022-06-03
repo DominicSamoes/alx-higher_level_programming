@@ -6,6 +6,10 @@
 
 ### [This repository contains 0x02. Python - import & modules Tasks](./0x02-python-import_modules)
 
+### [This repository contains  0x03. Python - Data Structures: Lists, Tuples Tasks](./0x03-python-data_structures)
+
+
+
 
 ### Author
 * **Dominic Samo** - (https://github.com/DominicSamoes)
