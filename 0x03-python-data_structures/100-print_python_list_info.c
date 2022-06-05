@@ -1,8 +1,3 @@
-/*
- * File: 100-print_python_list_info.c
- * Auth: Brennan D Baraban
- */
-
 #include <Python.h>
 
 /**
@@ -12,7 +7,7 @@
 void print_python_list_info(PyObject *p)
 {
 	int size, alloc, i;
-	PyObject *obj;
+	PyObject *objc;
 
 	size = Py_SIZE(p);
 	alloc = ((PyListObject *)p)->allocated;
@@ -24,7 +19,7 @@ void print_python_list_info(PyObject *p)
 	{
 		printf("Element %d: ", i);
 
-		obj = PyList_GetItem(p, i);
-		printf("%s\n", Py_TYPE(obj)->tp_name);
+		objc = PyList_GetItem(p, i);
+		printf("%s\n", Py_TYPE(objc)->tp_name);
 	}
 }
