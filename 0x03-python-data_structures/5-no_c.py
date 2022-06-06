@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env/python3
 def no_c(my_string):
     leng = len(my_string)
     a = 0
