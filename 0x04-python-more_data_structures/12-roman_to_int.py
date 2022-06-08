@@ -1,17 +1,40 @@
 #!/usr/bin/python3
+def sub(list_num):
+    subt = 0
+    maxlist = max(list_num)
+
+    for i in list_num:
+        if maxlist > i:
+            subt += i
+
+    return (maxlist - subt)
+
+
 def roman_to_int(roman_string):
-    if (not isinstance(roman_string, str) or
-            roman_string is None):
-        return (0)
-    roman_num = {"I": 1, "V": 5, "X": 10, "L": 50,
-            "C": 100, "D": 500, "M": 1000}
+    if not roman_string:
+        return 0
+
+    if not isinstance(roman_string, str):
+        return 0
+
+    romnum = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
+    keys_list = list(romnum.keys())
+
     count = 0
-    for i in range(len(roman_string)):
-        if roman_num.get(roman_string[i], 0) == 0:
-            return (0)
-        if (i != (len(roman_string) - 1) and
-                roman_num[roman_string[i]] < roman_num[roman_string[i + 1]]):
-            count += roman_num[roman_string[i]] * (-1)
-        else:
-            count += roman_num[roman_string[i]]
+    lastrom = 0
+    listnum = [0]
+
+    for c in roman_string:
+        for r in keys_list:
+            if r == c:
+                if romnum.get(c) <= lastrom:
+                    count += sub(listnum)
+                    listnum = [romnum.get(c)]
+                else:
+                    listnum.append(romnum.get(c))
+
+                lastrom = romnum.get(c)
+
+    count += sub(listnum)
+
     return (count)
