@@ -122,6 +122,12 @@ matrix is a 2 dimensional array
 	- You have to use map
 	- Your file should be max 3 lines
 
+### [12. Roman to Integer](./12-roman_to_int.py)
+* Create a function def roman_to_int(roman_string): that converts a Roman numeral to an integer.
+	- You can assume the number will be between 1 to 3999.
+	- def roman_to_int(roman_string) must return an integer
+	- If the roman_string is not a string or None, return 0
+
 ---
 
 ### Author
