@@ -98,6 +98,11 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Prototype: def raise_exception():
 	- You are not allowed to import any module
 
+### [6. Raise a message](./6-raise_exception_msg.py)
+* Write a function that raises a name exception with a message.
+	- Prototype: def raise_exception_msg(message=""):
+	- You are not allowed to import any module
+
 
 ---
 
