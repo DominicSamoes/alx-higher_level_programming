@@ -12,5 +12,7 @@
 
 ### [This repository contains 0x05. Python - Exceptions Tasks](./0x05-python-exceptions)
 
+### [This repository contains 0x06. Python - Classes and Objects Tasks](./ 0x06-python-classes)
+
 ### Author
 * **Dominic Samo** - (https://github.com/DominicSamoes)
