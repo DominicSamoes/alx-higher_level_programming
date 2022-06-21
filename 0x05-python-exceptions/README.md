@@ -122,6 +122,8 @@ These are all the tasks of this project, the ones that are completed link to the
 	- Otherwise, returns None if something happens during the function and prints in stderr the error precede by Exception:
 	- You have to use try: / except:
 
+### [9. ByteCode -> Python #4](./102-magic_calculation.py)
+
 
 ---
 
