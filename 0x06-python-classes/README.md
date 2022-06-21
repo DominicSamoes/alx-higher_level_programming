@@ -181,7 +181,8 @@ You are not allowed to import any module
 	- Square instance can answer to comparators: ==, !=, >, >=, < and <= based on the square area
 	- You are not allowed to import any module
 
-
+### [10. ByteCode -> Python #5](./103-magic_class.py)
+* Write the Python class MagicClass
 
 ---
 
