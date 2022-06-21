@@ -36,7 +36,6 @@ class Square:
         else:
             self.__size = value
 
-
     def my_print(self):
         """Prints in stdout the square the character #"""
         if not self.__size:
@@ -46,4 +45,3 @@ class Square:
                 for b in range(self.__size):
                     print("#", end='')
                 print()
-
