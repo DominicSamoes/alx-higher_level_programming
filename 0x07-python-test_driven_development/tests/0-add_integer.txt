@@ -1,93 +1,102 @@
-===========================
-How to Use 0-add_integer.py
-===========================
+The ``0-add_integer`` module
+============================
 
-This module defines an integer addition function ``add_integer(a, b=98)``.
+Using ``add_integer``
+---------------------
 
-Usage
-=====
+Importing function from the module:
+    >>> add_integer = __import__('0-add_integer').add_integer
 
-``add_integer(...)``` returns the addition of its two arguments. For numbers,
-that value is equivalent to using the ``+`` operator.
+Adding 1 and 2
+    >>> add_integer(1, 2)
+    3
 
-::
-	>> add_integer = __import__('0-add_integer').add_integer
-	>> add_integer(4, 88)
-	92
+Subtracting 150 and 3
+    >>> add_integer(150, -3)
+    147
 
-::
-	>> add_integr(4.0, 88)
-	92
+Adding 10
+    >>> add_integer(10)
+    108
 
-::
-        >> add_integr(4.0, 88.0)
-        92
+Subtracting 10.5 and 5
+	    >>> add_integer(10.5, -5)
+	    5
 
-::
-        >> add_integr(-4.0, -88.0)
-        - 92
+Adding an integer number and a string
+    >>> add_integer(50, "Dominic")
+    Traceback (most recent call last):
+	      ...
+    TypeError: b must be an integer
 
-::
-        >> add_integr(4)
-        102
-
-Non-Integers and Non-Floats
-===========================
-
-``add_integer()`` expects that both arguments are either integers or floats.
-If either argument is a non-integer and non-float, a TypeError is raised:
-
-::
-        >> add_integr("Dominic", 4)
-        Traceback (most recent call last):
-        TypeError: a must be an integer
-
-::
-        >> add_integr(4, "Dominic")
-        Traceback (most recent call last):
-        TypeError: b must be an integer
-
-::
-        >> add_integr("Samo", "Dominic")
-        Traceback (most recent call last):
-        TypeError: a must be an integer
-
-
-::
-
+Passing None
     >>> add_integer(None)
     Traceback (most recent call last):
+	      ...
     TypeError: a must be an integer
 
-
-::
-
-    >>> add_integer(float('inf'))
+Adding a character and a number
+    >>> add_integer('55', 55)
     Traceback (most recent call last):
+              ...
+    TypeError: a must be an integer
+
+Adding two characters
+    >>> add_integer('10', '10')
+    Traceback (most recent call last):
+              ...
+    TypeError: a must be an integer
+
+Adding a tuple
+    >>> add_integer((10, 20))
+    Traceback (most recent call last):
+              ...
+    TypeError: a must be an integer
+
+Adding a number and a list
+    >>> add_integer(101, [])
+    Traceback (most recent call last):
+	      ...
+    TypeError: b must be an integer
+
+Passing a string
+    >>> add_integer("Free")
+    Traceback (most recent call last):
+	      ...
+    TypeError: a must be an integer
+
+Adding two floats
+    >>> add_integer(2.5, 2.8)
+    4
+
+Subtracting 9
+    >>> add_integer(-9)
+    89
+
+Case Overflow:
+
+    >>> add_integer(float('inf'), 0)
+    Traceback (most recent call last):
+    	      ...
     OverflowError: cannot convert float infinity to integer
-     
 
-::
+Case Overflow 2:
 
-    >>> add_integer(2, float('inf'))
+    >>> add_integer(float('inf'), float('-inf'))
     Traceback (most recent call last):
+    	      ...
     OverflowError: cannot convert float infinity to integer
 
-::
+Case NaN:
 
-    >>> add_integer(float('nan'))
+    >>> add_integer(0, float('nan'))
     Traceback (most recent call last):
+    	      ...
     ValueError: cannot convert float NaN to integer
 
-::
-
-    >>> add_integer(2, float('nan'))
-    Traceback (most recent call last):
-    ValueError: cannot convert float NaN to integer
-
-
-::
+Case NaN + NaN:
 
     >>> add_integer(float('nan'), float('nan'))
     Traceback (most recent call last):
+              ...
     ValueError: cannot convert float NaN to integer
