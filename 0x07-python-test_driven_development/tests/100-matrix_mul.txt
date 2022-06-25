@@ -7,6 +7,7 @@ Using ``matrix_mul``
 Importing function from the module:
 
     >>> matrix_mul = __import__('100-matrix_mul').matrix_mul
+
 Two equal matrices
     >>> m_a = [
     ... [1, 2],
