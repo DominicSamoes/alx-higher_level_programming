@@ -78,6 +78,15 @@ These are all the tasks of this project, the ones that are completed link to the
 	- You are not allowed to import any module
 
 
+### [5. Max integer - Unittest](./tests/6-max_integer_test.py)
+* In this task, you will write unittests for the function def max_integer(list=[]):.
+	- Your test file should be inside a folder tests
+	- You have to use the [unittest module](https://docs.python.org/3.4/library/unittest.html#module-unittest)
+	- Your test file should be python files (extension: .py)
+	- Your test file should be executed by using this command: python3 -m unittest tests.6-max_integer_test
+
+
+
 ---
 
 ### Author
