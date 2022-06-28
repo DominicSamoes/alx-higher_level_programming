@@ -18,6 +18,10 @@
 ### [This repository contains 0x07. Python - Test-driven development  Tasks](./0x07-python-test_driven_development)
 
 
+### [This repository contains 0x08. Python - More Classes and Objects Tasks](./0x08-python-more_classes)
+
+
+### [This repository contains 0x09. Python - Everything is object Tasks](./0x09-python-everything_is_object)
 
 
 ### Author
