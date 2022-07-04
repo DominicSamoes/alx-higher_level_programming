@@ -23,6 +23,9 @@
 
 ### [This repository contains 0x09. Python - Everything is object Tasks](./0x09-python-everything_is_object)
 
+### [This repository contains 0x0A. Python - Inheritance Tasks](./0x0A-python-inheritance)
+
+
 
 ### Author
 * **Dominic Samo** - (https://github.com/DominicSamoes)
