@@ -102,6 +102,15 @@ These are all the tasks of this project, the ones that are completed link to the
 	- print() should print, and str() should return, the following rectangle description: [Rectangle] <width>/<height>
 
 
+### [10. Square #1](./10-square.py)
+* Write a class Square that inherits from Rectangle (9-rectangle.py):
+
+	- Instantiation with size: def __init__(self, size)::
+		+ size must be private. No getter or setter
+		+ size must be a positive integer, validated by integer_validator
+	- the area() method must be implemented
+
+
 
 ---
 
