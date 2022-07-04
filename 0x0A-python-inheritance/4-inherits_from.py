@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""Finds if an object is an instance of a class inherited directly/indirectly"""
+"""Finds if an object is an instance of a class
+inherited directly/indirectly
+"""
 
 
 def inherits_from(obj, a_class):
