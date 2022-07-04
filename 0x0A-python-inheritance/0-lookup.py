@@ -8,4 +8,4 @@ and methods of an object
         List of attributes and methods
     """
 
-    return (dir(obj))
+    return dir(obj)
