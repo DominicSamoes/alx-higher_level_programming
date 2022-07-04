@@ -1,4 +1,7 @@
-#!/usr/bin/python3
+#!/usr/bin/python3i
+"""Creates a class inheriting from list class"""
+
+
 class MyList(list):
     """ Class defines an inherited list class
     Args:
