@@ -120,6 +120,12 @@ These are all the tasks of this project, the ones that are completed link to the
 	- print() should print, and str() should return, the square description: [Square] <width>/<height>
 
 
+### [12. My integer](./100-my_int.py)
+* Write a class MyInt that inherits from int:
+
+	- MyInt is a rebel. MyInt has == and != operators inverted
+	- You are not allowed to import any module
+
 
 
 ---
