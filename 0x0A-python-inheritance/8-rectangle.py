@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-"""Class inherits from BaseGeometry (7-base_geometry.py)"""
+"""Class inherits from Task 7"""
 
 
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
+
 
 class Rectangle(BaseGeometry):
     """Class defines a rectangle from BaseGeometry Class"""

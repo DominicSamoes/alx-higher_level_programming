@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""Class inherits from Task 9"""
+
+
 Rectangle = __import__('9-rectangle').Rectangle
 
 
