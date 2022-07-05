@@ -153,6 +153,17 @@ These are all the tasks of this project, the ones that are completed link to the
 * Now, you have a simple implementation of a serialization and deserialization mechanism (concept of representation of an object to another format, without losing any information and allow us to rebuild an object based on this representation)
 
 
+### [12. Pascal's Triangle](./12-pascal_triangle.py)
+* Technical interview preparation:
+
+	- You are not allowed to google anything
+	- Whiteboard first
+* Create a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n:
+
+	- Returns an empty list if n <= 0
+	- You can assume n will be always an integer
+	- You are not allowed to import any module
+
 
 
 
