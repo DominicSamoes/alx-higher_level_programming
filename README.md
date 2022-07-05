@@ -25,6 +25,8 @@
 
 ### [This repository contains 0x0A. Python - Inheritance Tasks](./0x0A-python-inheritance)
 
+### [This repository contains 0x0B. Python - Input/Output Tasks](./0x0B-python-input_output)
+
 
 
 ### Author
