@@ -74,6 +74,10 @@ These are all the tasks of this project, the ones that are completed link to the
 ### [4. Area first](./models/rectangle.py)
 * Update the class Rectangle by adding the public method def area(self): that returns the area value of the Rectangle instance.
 
+### [5. Display #0](./models/rectangle.py)
+* Update the class Rectangle by adding the public method def display(self): that prints in stdout the Rectangle instance with the character # - you don’t need to handle x and y here.
+
+
 
 
 
