@@ -192,6 +192,14 @@ These are all the tasks of this project, the ones that are completed link to the
 	- **dictionary must be used as **kwargs of the method update
 	- You are not allowed to use eval
 
+### [19. File to instances](./models/base.py)
+* Update the class Base by adding the class method def load_from_file(cls): that returns a list of instances:
+
+	- The filename must be: <Class name>.json - example: Rectangle.json
+	- If the file doesn’t exist, return an empty list
+	- Otherwise, return a list of instances - the type of these instances depends on cls (current class using this method)
+	- You must use the from_json_string and create methods (implemented previously)
+
 
 
 ---
