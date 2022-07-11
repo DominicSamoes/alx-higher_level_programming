@@ -135,6 +135,17 @@ These are all the tasks of this project, the ones that are completed link to the
 	- **kwargs must be skipped if *args exists and is not empty
 	- Each key in this dictionary represents an attribute to the instance
 
+### [13. Rectangle instance to dictionary representation](./models/rectangle.py)
+* Update the class Rectangle by adding the public method def to_dictionary(self): that returns the dictionary representation of a Rectangle:
+
+* This dictionary must contain:
+
+	- id
+	- width
+	- height
+	- x
+	- y
+
 
 
 ---
