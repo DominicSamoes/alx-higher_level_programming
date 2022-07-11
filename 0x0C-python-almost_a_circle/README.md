@@ -146,6 +146,17 @@ These are all the tasks of this project, the ones that are completed link to the
 	- x
 	- y
 
+### [14. Square instance to dictionary representation](./models/square.py)
+* Update the class Square by adding the public method def to_dictionary(self): that returns the dictionary representation of a Square:
+
+* This dictionary must contain:
+
+	- id
+	- size
+	- x
+	- y
+
+
 
 
 ---
