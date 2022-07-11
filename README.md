@@ -27,6 +27,9 @@
 
 ### [This repository contains 0x0B. Python - Input/Output Tasks](./0x0B-python-input_output)
 
+### [This repository contains 0x0C. Python - Almost a circle Tasks](./0x0C-python-almost_a_circle)
+
+
 
 
 ### Author
