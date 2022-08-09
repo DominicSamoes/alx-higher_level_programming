@@ -32,6 +32,13 @@ These are all the tasks of this project, the ones that are completed link to the
 ### [0. List databases](./0-list_databases.sql)
 * Write a script that lists all databases of your MySQL server.
 
+### [1. Create a database](./1-create_database_if_missing.sql)
+* Write a script that creates the database hbtn_0c_0 in your MySQL server.
+
+	- If the database hbtn_0c_0 already exists, your script should not fail
+	- You are not allowed to use the SELECT or SHOW statements
+
+
 
 ---
 
