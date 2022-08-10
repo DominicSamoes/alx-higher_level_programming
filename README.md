@@ -31,6 +31,8 @@
 
 ### [This repository contains 0x0D. SQL - Introduction SQL Tasks](./0x0D-SQL_introduction)
 
+### [This repository contains 0x0E. SQL - More queries Tasks](./0x0E-SQL_more_queries)
+
 
 
 ### Author
