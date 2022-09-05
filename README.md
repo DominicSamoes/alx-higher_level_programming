@@ -33,7 +33,7 @@
 
 ### [This repository contains 0x0E. SQL - More queries Tasks](./0x0E-SQL_more_queries)
 
-
+### [This repository contains 0x12. JavaScript - Warm up  Tasks](./0x12-javascript-warm_up)
 
 ### Author
 * **Dominic Samo** - (https://github.com/DominicSamoes)
