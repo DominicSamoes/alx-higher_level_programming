@@ -1,12 +1,11 @@
 #!/usr/bin/node
-const squaresize = Math.floor(Number(process.argv[2]));
-if (isNaN(squaresize)) {
+if (process.argv[2] === undefined || isNaN(process.argv[2])) {
   console.log('Missing size');
 } else {
-  for (let r = 0; r < squaresize; r++) {
-    let squarerow = '';
-    for (let i = 0; i < squaresize; i++) 
-      squarerow += 'X';
-    console.log(squarerow);
+  const x = Number(process.argv[2]);
+  let i = 0;
+  while (i < x) {
+    console.log('X'.repeat(x));
+    i++;
   }
 }
