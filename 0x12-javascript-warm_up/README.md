@@ -66,6 +66,15 @@ These are all the tasks of this project, the ones that are completed link to the
 	- You must use console.log(...) to print all output
 	- You are not allowed to use var
 
+### [3. Value of my argument](./3-value_argument.js)
+
+* Write a script that prints the first argument passed to it:
+
+ - If no arguments are passed to the script, print “No argument”
+ - You must use console.log(...) to print all output
+ - You are not allowed to use var
+ - You are not allowed to use length
+
 
 
 ---
