@@ -101,6 +101,38 @@ These are all the tasks of this project, the ones that are completed link to the
 
 	- Prototype: exports.nbOccurences = function (list, searchElement)
 
+### [8. Esrever](./8-esrever.js)
+
+* Write a function that returns the reversed version of a list:
+
+	- Prototype: exports.esrever = function (list)
+	- You are not allow to use the built-in method reverse
+
+### [9. Log me](./9-logme.js)
+
+* Write a function that prints the number of arguments already printed and the new argument value. (see example below)
+
+	- Prototype: exports.logMe = function (item)
+	- Output format: <number arguments already printed>: <current argument value>
+
+### [10. Number conversion](./10-converter.js)
+
+* Write a function that converts a number from base 10 to another base passed as argument:
+
+	- Prototype: exports.converter = function (base)
+	- You are not allowed to import any file
+	- You are not allowed to declare any new variable (var, let, etc..)
+
+### [11. Factor index](./100-map.js)
+
+* Write a script that imports an array and computes a new array.
+
+	- Your script must import list from the file 100-data.js
+	- You must use a map. 
+	- A new list must be created with each value equal to the value of the initial list, multipled by the index in the list
+	- Print both the initial list and the new list
+
+
 
 
 ---
