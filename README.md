@@ -35,5 +35,9 @@
 
 ### [This repository contains 0x12. JavaScript - Warm up  Tasks](./0x12-javascript-warm_up)
 
+### [This repository contains 0x13. JavaScript - Objects, Scopes and Closures](./0x13-javascript_objects_scopes_closures)
+
+
+
 ### Author
 * **Dominic Samo** - (https://github.com/DominicSamoes)
