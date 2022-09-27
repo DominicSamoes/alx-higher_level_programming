@@ -33,6 +33,10 @@
 
 ### [This repository contains 0x0E. SQL - More queries Tasks](./0x0E-SQL_more_queries)
 
+### [This repository contains 0x10. Python - Network #0 TAsks](./0x10-python-network_0)
+
+### [This repository contains 0x11. Python - Network #1 Tasks](./0x11-python-network_1)
+
 ### [This repository contains 0x12. JavaScript - Warm up  Tasks](./0x12-javascript-warm_up)
 
 ### [This repository contains 0x13. JavaScript - Objects, Scopes and Closures Tasks](./0x13-javascript_objects_scopes_closures)
