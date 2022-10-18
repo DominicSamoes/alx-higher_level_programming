@@ -65,7 +65,7 @@ These are all the tasks of this project, the ones that are completed link to the
 
 * Write a script that prints the number of movies where the character “Wedge Antilles” is present.
 
-	- The first argument is the API URL of the [Star wars API](./https://swapi-api.hbtn.io/api/films/): https://swapi-api.hbtn.io/api/films/
+	- The first argument is the API URL of the [Star wars API](https://swapi-api.hbtn.io/api/films/): https://swapi-api.hbtn.io/api/films/
 	- Wedge Antilles is character ID 18 - your script must use this ID for filtering the result of the API
 	- You must use the module request
 
@@ -91,7 +91,7 @@ These are all the tasks of this project, the ones that are completed link to the
 
 	- The first argument is the Movie ID - example: 3 = “Return of the Jedi”
 	- Display one character name by line
-	- You must use the [Star wars API](./https://swapi-api.hbtn.io/)
+	- You must use the [Star wars API](https://swapi-api.hbtn.io/)
 	- You must use the module request
 
 ### [8. Right order](./101-starwars_characters.js)
@@ -100,7 +100,7 @@ These are all the tasks of this project, the ones that are completed link to the
 
 	- The first argument is the Movie ID - example: 3 = “Return of the Jedi”
 	- Display one character name by line in the same order of the list “characters” in the /films/ response
-	- You must use the [Star wars API](./https://swapi-api.hbtn.io/)
+	- You must use the [Star wars API](https://swapi-api.hbtn.io/)
 	- You must use the module request
 
 
