@@ -43,6 +43,8 @@
 
 ### [This repository conatins 0x0F.  Python - Object-relational mapping Tasks](./0x0F-python-object_relational_mapping)
 
+### [This repository contains 0x14. JavaScript - Web scraping Tasks](./0x14-javascript-web_scraping)
+
 
 
 ### Author
