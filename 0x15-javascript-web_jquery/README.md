@@ -39,11 +39,8 @@ Files | Description
 
 [0. No JQuery](./0-script.js) | JavaScript script that updates the text color of the <header> element to red (#FF0000) using document.querySelector to select the HTML tag and without the JQuery API
 ----- | -----------
-
 [1. With JQuery](./1-script.js) | JavaScript script that updates the text color of the <header> element to red (#FF0000) without using document.querySelector to select the HTML tag and must use JQuery API 
-
 ----- | -----------
-
 [](./) | 
 
 
