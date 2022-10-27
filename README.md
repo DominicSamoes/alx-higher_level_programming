@@ -45,6 +45,8 @@
 
 ### [This repository contains 0x14. JavaScript - Web scraping Tasks](./0x14-javascript-web_scraping)
 
+### [[This repository contains 0x15. JavaScript - Web jQuery Tasks](./0x15-javascript-web_jquery)
+
 
 
 ### Author
