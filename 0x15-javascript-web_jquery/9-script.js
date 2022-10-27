@@ -1,5 +1,5 @@
 $('document').ready(function () {
-  $.get('https://fourtonfish.com/hellosalut/?lang=fr', function (data) {
+  $.get('https://stefanbohacek.com/hellosalut/?lang=es', function (data) {
     $('DIV#hello').text(data.hello);
   });
 });
