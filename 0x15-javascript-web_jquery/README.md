@@ -41,9 +41,9 @@ Files | Description
 ----- | -----------
 [1. With JQuery](./1-script.js) | JavaScript script that updates the text color of the <header> element to red (#FF0000) without using document.querySelector to select the HTML tag and must use JQuery API 
 ----- | -----------
-[](./) | 
+[2. Click and turn red](./2-script.js) | JavaScript script that updates the text color of the <header> element to red (#FF0000) when the user clicks on the tag DIV#red_header using document.querySelector to select the HTML tag and using the JQuery API 
 ----- | -----------
-[](./) | 
+[3. Add `.red` class](./3-script.js) | JavaScript script that adds the class red to the <header> element when the user clicks on the tag DIV#red_header without using document.querySelector to select the HTML tag and JQuery API 
 ----- | -----------
 [](./) | 
 ----- | -----------
